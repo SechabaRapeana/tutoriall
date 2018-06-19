@@ -1,0 +1,12 @@
+.container {
+    align-content : "center";
+    margin-bottom: 15%;
+    padding: 15%;
+    text-align: center;
+}
+
+.im{
+    width:650px;
+     height:550px;
+     border-block-end-color: darkslategrey;
+};
